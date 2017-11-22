@@ -1,4 +1,4 @@
-# BACK-TRANSITERATION OF PERSIAN NAMES TO ENGLISH NAMES
+# Back-transliteration of Persian names to English names
 
 Run this project by this command:
 
@@ -12,8 +12,7 @@ python edit_distance.py
 
    with open('/home/alisha/Desktop/KT/2017S1-90049P1-data-dos/names.txt') as f: //Here also
 
-   *NOTE: I HAVE NOT ATTACHED THE DATASETS AS THEY ARE NON-REPRODUCIBLE. HOWEVER, THEY ARE EASILY AVAILABLE
-          ONLINE*
+   *NOTE: I HAVE NOT ATTACHED THE DATASETS AS THEY ARE NON-REPRODUCIBLE. HOWEVER, SIMILAR DATASETS ARE EASILY AVAILABLE ONLINE*
 
 2) To test the output files, precision and recall for the following methods:
 
@@ -36,3 +35,5 @@ python edit_distance.py
       ```
       And now run the python script.
       Note: This method will take longer than the other ones.
+
+This was a part of my academic course 'Knowledge Technologies'. The lecture sets are here: [blog](https://alisha17.github.io/machine-learning/2017/11/20/pyladies.html)
