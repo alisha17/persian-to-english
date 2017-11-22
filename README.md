@@ -24,11 +24,10 @@ python edit_distance.py
 
 2) To test the output files, precision and recall for the following methods:
 
-   a) Levenshtein Distance
+   a) ** Levenshtein Distance **:
       The distance() method calculates this. Simply run the python script and you will get 'edited.txt' output file in the folder where you are running the script and the precision and recall will get printed on the terminal/console.
 
-   b) Jaccard Index
-      To calculate Jaccard index:
+   b) ** Jaccard Index **:
       Uncomment the following:
       ```python
       import distance
@@ -36,7 +35,7 @@ python edit_distance.py
       ```
       And now run the python script.
 
-   c) Modification of BLOSUM matrix in combination with Soundex method
+   c) ** Modification of BLOSUM matrix in combination with Soundex method **
       Uncomment the following:
       ```python
       edit_dist = matchWords(ke, item)
