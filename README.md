@@ -10,9 +10,15 @@ python edit_distance.py
 
 1) Edit the paths in the code where we are opening the files, namely train.txt and names.txt.
 
-   with open('/home/alisha/Desktop/KT/2017S1-90049P1-data-dos/train.txt') as f: --> Change it to the path where the files reside in your system.
+   ```python
+   with open('/home/alisha/Desktop/KT/2017S1-90049P1-data-dos/train.txt') as f:
+   ```
+    --> Change it to the path where the files reside in your system.
 
-   with open('/home/alisha/Desktop/KT/2017S1-90049P1-data-dos/names.txt') as f: // --> Here also
+   ```python
+   with open('/home/alisha/Desktop/KT/2017S1-90049P1-data-dos/names.txt') as f:
+   ```
+    --> Here also
 
    **NOTE: I HAVE NOT ATTACHED THE DATASETS AS THEY ARE NON-REPRODUCIBLE. HOWEVER, SIMILAR DATASETS ARE EASILY AVAILABLE ONLINE**
 
